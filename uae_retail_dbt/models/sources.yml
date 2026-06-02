@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: retail_bronze
+    description: "Raw landing zone from cross-cloud S3 ingestion"
+    database: UAE_RETAIL_DB
+    schema: BRONZE
+    tables:
+      - name: raw_retail_transactions
