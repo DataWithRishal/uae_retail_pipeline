@@ -1,4 +1,4 @@
-uae_retail:
+uae_retail_dbt:
   target: dev
   outputs:
     dev:
