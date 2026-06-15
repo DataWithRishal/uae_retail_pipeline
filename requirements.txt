@@ -1,0 +1,8 @@
+# =============================================================================
+# PROJECT      : UAE Retail Analytics Pipeline
+# ARCHITECT    : Data With RISHAL
+# DESCRIPTION  : Core Python dependencies for local dbt execution.
+#                To install: pip install -r requirements.txt
+# =============================================================================
+
+dbt-snowflake>=1.7.0,<2.0.0
