@@ -1,1 +1,5 @@
 dbt-env/
+.DS_Store
+**/.DS_Store
+uae_retail_dbt/target/
+uae_retail_dbt/logs/
