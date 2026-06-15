@@ -1,3 +1,14 @@
+# =============================================================================
+# PROJECT      : UAE Retail Analytics Pipeline
+# ARCHITECT    : Data With RISHAL
+# LAYER        : Bronze (Raw Ingestion Configuration)
+# FILE         : sources.yml
+# DESCRIPTION  : 
+#     This configuration file maps the dbt project directly to the raw 
+#     immutable landing zone in Snowflake. It defines the source database,
+#     schema, and tables for cross-cloud S3 ingestion.
+# =============================================================================
+
 version: 2
 
 sources:
